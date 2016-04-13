@@ -88,7 +88,8 @@ a:hover {
 
 .nav > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    background-color: #D5DBD8;
+    background-color: initial;
+    color: #2b2b2b;
 }
 .undoDelete{
   position: absolute;
